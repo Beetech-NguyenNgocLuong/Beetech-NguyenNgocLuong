@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>"Code không chỉ là công việc – nó là nghệ thuật 🎨 và đam mê 💖."</em>
+  <em>"Programs must be written for people to read, and only incidentally for machines to execute"</em>
 </p>
 
 ---
